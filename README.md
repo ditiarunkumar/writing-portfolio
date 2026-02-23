@@ -1,6 +1,3 @@
-# writing-portfolio
-Published articles and writing samples.
-
 # Writing Portfolio
 Selected published articles showcasing long-form and creative writing.
 
